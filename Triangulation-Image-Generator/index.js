@@ -21,13 +21,13 @@
     var GENERAL_MESSAGE = 'Drop image to change source.'; // 通常の表示メッセージ
     var GENERATIONG_MESSAGE = 'Generating...'; // 生成中の表示メッセージ
     var IMG_PRESETS = [ // プリセットイメージ
-        'http://jsrun.it/assets/f/E/e/B/fEeBJ.jpg',
-        'http://jsrun.it/assets/m/d/f/l/mdflD.jpg',
-        'http://jsrun.it/assets/n/r/Y/B/nrYB1.jpg',
-        'http://jsrun.it/assets/w/3/E/p/w3Epl.jpg',
-        'http://jsrun.it/assets/l/0/j/D/l0jDv.jpg',
-        'http://jsrun.it/assets/w/I/N/1/wIN1X.jpg',
-        'http://jsrun.it/assets/l/b/z/i/lbziS.jpg'
+        '../img/cat.jpg',
+        '../img/cat.jpg',
+        '../img/cat.jpg',
+        '../img/cat.jpg',
+        '../img/cat.jpg',
+        '../img/cat.jpg',
+        '../img/cat.jpg'
     ];
     
     // Vars
